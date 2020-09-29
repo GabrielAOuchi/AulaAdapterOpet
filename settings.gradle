@@ -1,0 +1,3 @@
+include ':adaptercustomizado'
+include ':app'
+rootProject.name = "Aula Adapter Opet"
